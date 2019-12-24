@@ -1,0 +1,25 @@
+### ANGULAR
+/**/node_modules
+/**/dist
+
+### IDEs and editors
+/.idea
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+
+### Test
+logs
+/screenshots/combined
+/screenshots/diff
+/screenshots/tests
+/reports/
+
+
+### MacOS
+.DS_Store

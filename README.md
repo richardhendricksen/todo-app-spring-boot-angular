@@ -1,4 +1,4 @@
-#Todo app
+# Todo app
 Simple Todo app with an Angular frontend and Spring Boot backend using an embedded mongo for storage.
 It is used as demo app for my multiple boilerplate test framework repositories.
 
